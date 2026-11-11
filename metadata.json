@@ -1,0 +1,6 @@
+{
+  "name": "Aura Health",
+  "description": "AI-Powered Health Screening Assistant & ESP32 IoT Medical Vital Monitor",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
